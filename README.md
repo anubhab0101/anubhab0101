@@ -14,7 +14,7 @@ I’m a developer passionate about building useful products and learning in publ
 - **Tools**: Git, PNPM/NPM, Postman
 
 ### 🚀 Featured projects
-- [My Portfolio](https://anubhab-mohapatra.vercel.app/) — Personal site and project showcase
+- [My Portfolio](https://anubhabmohapatra.in) — Personal site and project showcase
 - [More Projects](https://github.com/anubhab0101?tab=repositories) — Explore my repos
 
 ### 📫 Connect
