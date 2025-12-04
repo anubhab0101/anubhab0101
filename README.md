@@ -18,7 +18,7 @@ I’m a developer passionate about building useful products and learning in publ
 - [More Projects](https://github.com/anubhab0101?tab=repositories) — Explore my repos
 
 ### 📫 Connect
-- Website/Portfolio: [https://anubhabmohapatra.in]((https://anubhabmohapatra.in))
+- Website/Portfolio: [anubhabmohapatra.in](https://anubhabmohapatra.in)
 - LinkedIn: [/in/anubhab-mohapatra-01-/](https://www.linkedin.com/in/anubhab-mohapatra-01-/)
 - Instagram: [@anubhab_01_](https://www.instagram.com/anubhab_01_/)
 - LeetCode: [leetcode.com/u/anubhab_01_](https://leetcode.com/u/anubhab_01_/)
