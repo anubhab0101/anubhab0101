@@ -26,10 +26,7 @@ I’m a developer passionate about building useful products and learning in publ
 
 ---
 
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhab0101&layout=compact&theme=transparent)
-![Stats](https://github-readme-stats.vercel.app/api?username=anubhab0101&show_icons=true&include_all_commits=true&count_private=true&theme=transparent)
-![Activity Graph — This Year](https://github-readme-activity-graph.vercel.app/graph?username=anubhab0101&theme=github-compact&custom_title=Contributions%20This%20Year)
+
 
 ### 🧩 Badges
 ![Visitors](https://komarev.com/ghpvc/?username=anubhab0101&style=flat&color=0e75b6)
